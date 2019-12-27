@@ -7,3 +7,6 @@ endereço do curso: [https://pgpinheiro2.github.io/Intro-programar-com-R/](https
 # Aula 02: Operadores Lógicos
 
 # Aula 03: 
+
+# Referências
+- [ ] 
