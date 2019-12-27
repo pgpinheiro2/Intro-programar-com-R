@@ -1,4 +1,4 @@
-# Introdução a Programação com R
+# Introdução a Programação com ![https://cran.r-project.org/Rlogo.svg](https://cran.r-project.org/Rlogo.svg)
 Este curso ....bla,blablabla...
 
 # Aula 01: Por que R?
